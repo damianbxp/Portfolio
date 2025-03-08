@@ -25,5 +25,5 @@ If you have any questions or would like to collaborate, feel free to connect!
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/damian-bartus/)  
 🐙 GitHub: [My GitHub](https://github.com/damianbxp)  

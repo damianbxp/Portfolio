@@ -8,13 +8,12 @@ This is a custom-built **FDM 3D printer** inspired by the RatRig design. It util
 - **Motion System**: CoreXY
 - **Firmware**: Klipper
 - **Bed Leveling**: Inductive probe with adaptive bed meshing
-- **Future Upgrade**: Enclosure with transparent PVC panels
+- **Future Upgrade**: Enclosure with transparent PVC panels, Camera, Additional lighting
 
 ## ⚙️ Technology Stack
 - **Motherboard**: BIGTREETECH Octopus V1.1
 - **Firmware**: Klipper
 - **Control Interface**: Mainsail
-- **Materials Used**: Aluminum extrusion, linear rails, etc.
 
 ## 📸 Images
 (Add images or GIFs of your printer in action here)
@@ -22,7 +21,6 @@ This is a custom-built **FDM 3D printer** inspired by the RatRig design. It util
 ## 🔗 Resources & References
 - [Klipper Documentation](https://www.klipper3d.org/)
 - [Mainsail Documentation](https://docs.mainsail.xyz/)
-- [CoreXY Kinematics Explained](https://example.com) (Add useful links)
 - [RatRig Inspiration](https://www.ratrig.com/)
 
 ## 📬 Contact
