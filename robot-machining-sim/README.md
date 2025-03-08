@@ -1,7 +1,7 @@
 # Simulation of Machining Using Industrial Robots
 
 ## 📌 Project Overview
-A **Unity-based** simulation developed as part of an **engineering degree project**. This simulator replicates **machining with an industrial robot**, specifically the **KUKA KR60 HA**. Simulator uses custom 6-axis Inverse Kinematics solver for calculating joint positions. To simulate machining operations, Marching Cubes Algorithm is used. Calculations are performed on GPU. Model is devided to chunks to improve optymization.
+A **Unity-based** simulation developed as part of an **engineering degree project**. This simulator replicates **machining with an industrial robot**, specifically the **KUKA KR60 HA**. Simulator uses custom 6-axis Inverse Kinematics solver for calculating joint positions. To simulate machining operations, Marching Cubes Algorithm is used. Calculations are performed on GPU. Model is divided to chunks to improve optymization.
 
 ## 🔧 Features
 - **Simulated Robot**: KUKA KR60 HA

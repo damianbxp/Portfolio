@@ -1,7 +1,7 @@
 # Skryba Bot
 
 ## 📌 Project Overview
-Skryba Bot is a **simple yet entertaining Discord bot** designed for fun interactions on Discord servers. The bot is capable of citing **predefined quotes** both in **text** and **voice**, making conversations more engaging.
+Skryba Bot is a simple Discord bot made for fun. The bot is capable of citing **predefined quotes** both in **text** and **voice**, making conversations more engaging.
 
 ## 🔧 Features
 - **Quote Generation**: Sends predefined quotes in text chat

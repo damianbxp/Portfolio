@@ -13,12 +13,9 @@ You can download the game from the following link: [Bog'Leesh Download](https://
 - 🧩 **Engaging puzzles and challenges**
 - 🌍 **Whimsical world design**
 - 🎮 **Intuitive controls for seamless gameplay**
-- 🔍 **Hidden secrets and surprises to discover**
 
 ## 🎮 Gameplay
-In **Bog'Leesh**, players control the character, utilizing their unique abilities to **overcome obstacles and solve puzzles**. Whether it's **manipulating objects, leveraging momentum, or navigating treacherous terrain**, players must master **physics-based mechanics** to progress through each level. 
-
-Every success brings new challenges, making for an **unforgettable gaming experience**!
+**Bog'Leesh** is a game developed using **Unreal Engine**, where players navigate through a series of **physics-based puzzles and challenges**. Set in a **whimsical world**. With **intuitive controls** and **engaging gameplay mechanics**.
 
 ## 🔗 Project Repository
 Find the source code and more details on GitHub: [Bog'Leesh GitHub Repository](https://github.com/damianbxp/BobAndJoe)
