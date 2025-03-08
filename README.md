@@ -5,31 +5,25 @@ Welcome to my project portfolio! This repository showcases my past projects, hig
 ## 📌 Featured Projects
 
 ### 🔹 [FDM 3D Printer](./fdm-3d-printer/README.md)
-A custom-built 3D printer based on CoreXY kinematics and powered by Klipper firmware. Features include:
-- **Build Volume**: 300x300x300 mm
-- **Motion System**: CoreXY
-- **Firmware**: Klipper
-- **Bed Leveling**: Inductive probe with adaptive bed meshing
-- **Future Upgrade**: Enclosure with transparent PVC panels
+custom-built **FDM 3D printer** inspired by the RatRig design. It utilizes **CoreXY kinematics** for high-speed and precise movement, and runs on **Klipper firmware** for enhanced control and performance.
 
 ### 🔹 [CNC Router](./cnc-router/README.md)
-A low-cost **3-axis CNC router** designed for machining plastic sheets. Features include:
-- **Work Area**: 1200 x 2000 mm
-- **Controller**: GRBL
-- **Construction**: V-slot extrusions
-- **Motion System**: NEMA 23 stepper motors with TR18x3 lead screws
+A low-cost **3-axis CNC router** designed for machining plastic sheets. Built using **V-slot extrusions and linear guides**, this router is powered by **NEMA 23 stepper motors** and controlled via **GRBL**.
 
 ### 🔹 [Simulation of Omnidirectional Robotic Platform](./omni-robot-sim/README.md)
 A virtual robotic platform simulated in **Gazebo**, controlled via **ROS**, using **mecanum wheels** for omnidirectional movement.
 
 ### 🔹 [Simulation of Machining Using Industrial Robots](./robot-machining-sim/README.md)
-A **Unity-based simulator** for machining with industrial robots, developed for an engineering degree project. Features include:
-- **Simulated Robot**: KUKA KR60 HA
-- **Control Methods**: G-code & KRL (KUKA Robot Language)
-- **Inverse Kinematics**: Custom-made 6-axis IK solver
-- **Machining Simulation**: Uses the Marching Cubes algorithm to simulate material removal
-- **Manual Jogging**: Allows manual control of the robot
+A **Unity-based** simulation developed as part of an **engineering degree project**. This simulator replicates **machining with an industrial robot**, specifically the **KUKA KR60 HA**. Simulator uses custom 6-axis Inverse Kinematics solver for calculating joint positions. To simulate machining operations, Marching Cubes Algorithm is used. Calculations are performed on GPU. Model is devided to chunks to improve optymization.
 
+### 🔹 [Bog'Leesh - A Gamejam Adventure](./Bog-Leesh/README.md)
+**Bog'Leesh** is a game developed using **Unreal Engine**, where players navigate through a series of **physics-based puzzles and challenges**. Set in a **whimsical world**, players control **Bog'Leesh** as they explore levels filled with **obstacles, traps, and secrets**. With **intuitive controls** and **engaging gameplay mechanics**, Bog'Leesh delivers an immersive experience for players of all ages.
+
+### 🔹 [Camera Slider & Controller for Hydroponics](./camera-slider/README.md)
+This project is a **custom-built camera slider** designed to monitor plants in a **hydroponic system**. The system features a **gantry-style slider** with a **SCARA arm** for close-up plant monitoring. The movement is controlled by a **MicroPython-based controller** running on a **Raspberry Pi Pico**.
+
+### 🔹 [Skryba Bot](./skryba-bot/README.md)
+Skryba Bot is a **simple yet entertaining Discord bot** designed for fun interactions on Discord servers. The bot is capable of citing **predefined quotes** both in **text** and **voice**, making conversations more engaging.
 ---
 
 ## 📖 About Me
