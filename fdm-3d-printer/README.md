@@ -1,4 +1,4 @@
-# 🛠️ FDM 3D Printer
+# FDM 3D Printer
 
 ## 📌 Project Overview
 This is a custom-built **FDM 3D printer** inspired by the RatRig design. It utilizes **CoreXY kinematics** for high-speed and precise movement, and runs on **Klipper firmware** for enhanced control and performance.
