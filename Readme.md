@@ -4,7 +4,7 @@ Welcome to my project portfolio! This repository showcases my past projects, hig
 
 ## 📌 Featured Projects
 
-### 🔹 [FDM 3D Printer](./FDM 3D Printer/README.md)
+### 🔹 [FDM 3D Printer](./fdm-3d-printer/README.md)
 A custom-built 3D printer based on CoreXY kinematics and powered by Klipper firmware. Features include:
 - **Build Volume**: 300x300x300 mm
 - **Motion System**: CoreXY
