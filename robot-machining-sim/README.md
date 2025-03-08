@@ -11,12 +11,9 @@ A **Unity-based** simulation developed as part of an **engineering degree projec
 - **Manual Jogging**: Allows real-time control of the robot
 
 ## 📸 Images
-(Add images or GIFs of the simulation here)
+![](img/img1.png)
 
-## 🔗 Resources & References
-- [KUKA KR60 HA Info](https://www.kuka.com/)
-- [Unity Engine](https://unity.com/)
-- [Marching Cubes Algorithm](https://en.wikipedia.org/wiki/Marching_cubes)
+![](img/img2.png)
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
