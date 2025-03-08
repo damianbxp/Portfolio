@@ -16,7 +16,7 @@ A custom-built 3D printer based on CoreXY kinematics and powered by Klipper firm
 A low-cost **3-axis CNC router** designed for machining plastic sheets. Features include:
 - **Work Area**: 1200 x 2000 mm
 - **Controller**: GRBL
-- **Construction**: V-slot extrusions and linear guides
+- **Construction**: V-slot extrusions
 - **Motion System**: NEMA 23 stepper motors with TR18x3 lead screws
 
 ### 🔹 [Simulation of Omnidirectional Robotic Platform](./omni-robot-sim/README.md)

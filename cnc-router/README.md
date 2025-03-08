@@ -6,17 +6,15 @@ A low-cost **3-axis CNC router** designed for machining plastic sheets. Built us
 ## 🔧 Features
 - **Work Area**: 1200 x 2000 mm
 - **Controller**: GRBL
-- **Construction**: V-slot extrusions with linear guides
-- **Motion System**: NEMA 23 stepper motors
-- **Lead Screws**: TR18x3 for linear motion conversion
+- **Construction**: V-slot extrusions
+- **Motion System**: NEMA 23 stepper motors coupled with TR18x3 screws. V-slot system used for linear motion.
 
 ## 📸 Images
 (Add images or GIFs of your CNC router here)
 
 ## 🔗 Resources & References
-- [GRBL Documentation](https://github.com/grbl/grbl/wiki)
+- [GRBL Documentation](https://github.com/gnea/grbl)
 - [V-Slot Extrusions](https://openbuilds.com/)
-- (Add other useful links)
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
