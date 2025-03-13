@@ -13,7 +13,9 @@ Skryba Bot is a simple Discord bot made for fun. The bot is capable of citing **
 - **Discord API**: Uses `discord.py` for bot interactions
 
 ## 📸 Images
-Will be added soon
+![](img/img1.png)
+
+![](img/img2.png)
 
 ## 🔗 Resources & References
 - [Discord API Documentation](https://discord.com/developers/docs/intro)
