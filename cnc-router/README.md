@@ -18,4 +18,4 @@ A low-cost **3-axis CNC router** designed for machining plastic sheets. Built us
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
-🐙 GitHub: [My GitHub](https://github.com/damianbxp)  
+🐙 [GitHub](https://github.com/damianbxp)  

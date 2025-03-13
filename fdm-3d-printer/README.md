@@ -16,7 +16,7 @@ This is a custom-built **FDM 3D printer** inspired by the RatRig design. It util
 - **Control Interface**: Mainsail
 
 ## 📸 Images
-(Add images or GIFs of your printer in action here)
+Will be added soon
 
 ## 🔗 Resources & References
 - [Klipper Documentation](https://www.klipper3d.org/)
@@ -25,4 +25,4 @@ This is a custom-built **FDM 3D printer** inspired by the RatRig design. It util
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
-🐙 GitHub: [My GitHub](https://github.com/damianbxp)  
+🐙 [GitHub](https://github.com/damianbxp)  

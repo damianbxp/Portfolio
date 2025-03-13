@@ -13,7 +13,7 @@ Skryba Bot is a simple Discord bot made for fun. The bot is capable of citing **
 - **Discord API**: Uses `discord.py` for bot interactions
 
 ## 📸 Images
-(Add images or GIFs of the bot in action here)
+Will be added soon
 
 ## 🔗 Resources & References
 - [Discord API Documentation](https://discord.com/developers/docs/intro)
@@ -21,4 +21,4 @@ Skryba Bot is a simple Discord bot made for fun. The bot is capable of citing **
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
-🐙 GitHub: [My GitHub](https://github.com/damianbxp)  
+🐙 [GitHub](https://github.com/damianbxp)  

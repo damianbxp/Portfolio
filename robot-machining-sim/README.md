@@ -20,4 +20,4 @@ A **Unity-based** simulation developed as part of an **engineering degree projec
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
-🐙 GitHub: [My GitHub](https://github.com/damianbxp)  
+🐙 [GitHub](https://github.com/damianbxp)  
