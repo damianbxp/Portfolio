@@ -2,6 +2,20 @@
 
 This repository showcases my past projects.
 
+## 📖 About Me
+
+I'm a passionate **developer, engineer, and maker** who loves working on **automation, robotics**. My projects range from **custom-built 3D printers** and **CNC machines** to **robotic simulations and game development**. I enjoy **solving technical challenges**, **designing systems**, and **experimenting with new technologies**.
+
+## 🔧 Skills & Interests
+- **Mechanical Design**: Solidworks, Inventor
+- **3D printing**: FDM and SLA
+- **Robotics & Automation**: CNC systems, robotic simulations
+- **Simulations**: Gazebo, Isaac Sim
+- **Software Development**: Python, C++, ROS, Unity, Unreal Engine, Git
+- **Video Games**: Mostly RTS and FPS shooters.
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔹 [FDM 3D Printer](./fdm-3d-printer/README.md)
@@ -27,19 +41,7 @@ Skryba Bot is a simple Discord bot made for fun. The bot is capable of citing **
 
 ---
 
-## 📖 About Me
 
-I'm a passionate **developer, engineer, and maker** who loves working on **automation, robotics**. My projects range from **custom-built 3D printers** and **CNC machines** to **robotic simulations and game development**. I enjoy **solving technical challenges**, **designing systems**, and **experimenting with new technologies**.
-
-## 🔧 Skills & Interests
-- **Mechanical Design**: Solidworks, Inventor
-- **3D printing**: FDM and SLA
-- **Robotics & Automation**: CNC systems, robotic simulations
-- **Simulations**: Gazebo, Isaac Sim
-- **Software Development**: Python, C++, ROS, Unity, Unreal Engine, Git
-- **Video Games**: Mostly RTS and FPS shooters.
-
----
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
