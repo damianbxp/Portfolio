@@ -9,7 +9,9 @@ A virtual robotic platform simulated in **Gazebo**, controlled via **ROS**, and 
 - **Locomotion**: Mecanum wheels
 
 ## 📸 Images
-Will be added soon
+![](img/img1.png)
+
+![](img/img2.png)
 
 ## 🔗 Resources & References
 - [Gazebo Documentation](https://gazebosim.org/)
