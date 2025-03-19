@@ -16,11 +16,11 @@ This is a custom-built **FDM 3D printer** inspired by the RatRig design. It util
 - **Control Interface**: Mainsail
 
 ## 📸 Images
-![](img/img1.png)
+![](img/img1.jpg)
 
-![](img/img2.png)
+![](img/img2.jpg)
 
-![](img/img3.png)
+![](img/img3.jpg)
 
 ## 🔗 Resources & References
 - [Klipper Documentation](https://www.klipper3d.org/)
