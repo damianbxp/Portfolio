@@ -7,6 +7,8 @@
 ## 📌 Materials
 ### Thermoplastics
 - **PETG**
+- **ABS**
+- **ASA**
 - **TPU**
 ### Resins
 - **Tough Resin**
