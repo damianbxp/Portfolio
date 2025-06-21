@@ -25,7 +25,7 @@ Exhaust adapter for SLA printer, printed in Tough Resin.
 Adapter for SLA build plate. It allows to more efficient resin dripping.
 ![](img/img3.jpg)
 
-Mecanum wheep prototpe.
+Mecanum wheel prototype.
 ![](img/img4.jpg)
 
 Various resins tests.
