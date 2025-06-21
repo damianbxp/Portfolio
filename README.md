@@ -8,7 +8,7 @@ I'm a passionate **developer, engineer, and maker** who loves working on **autom
 
 ## 🔧 Skills & Interests
 - **Mechanical Design**: Solidworks, Inventor
-- **3D printing**: FDM and SLA
+- **3D printing**: FDM, SLA
 - **Robotics & Automation**: CNC systems, robotic simulations
 - **Simulations**: Gazebo, Isaac Sim
 - **Software Development**: Python, C++, ROS, Unity, Unreal Engine, Git
@@ -24,8 +24,11 @@ Custom-built **FDM 3D printer** inspired by the RatRig design. It utilizes **Cor
 ### 🔹 [CNC Router](./cnc-router/README.md)
 A low-cost **3-axis CNC router** designed for machining plastic sheets. Built using **V-slot extrusions**, this router is powered by **NEMA 23 stepper motors** and controlled via **GRBL**.
 
-### 🔹 [Simulation of Omnidirectional Robotic Platform](./omni-robot-sim/README.md)
-A virtual robotic platform simulated in **Gazebo**, controlled via **ROS**, using **mecanum wheels** for omnidirectional movement.
+### 🔹 [Additive manufacturing](./additive-manufacturing/README.md)
+3D printing is technology that fascinates me. Ability to create parts on demand is something that i find very useful. It allows me to create custom parts for my projects, and experiment with new designs. I love ability to fix problems with custom parts.
+
+### 🔹 [Additive manufacturing automation](./additive-manufacturing-automation/README.md)
+**Master thesis project** i'm currently working on. Will utilize Isaac Sim and ROS to control MIR platform with mounted UR10. My goal is to create system that will be able to produce parts on demand. First i will create **digital twin** of system, then it will be transfered to real world.
 
 ### 🔹 [Simulation of Machining Using Industrial Robots](./robot-machining-sim/README.md)
 A **Unity-based** simulation developed as part of an **engineering degree project**. This simulator replicates **machining with an industrial robot**, specifically the **KUKA KR60 HA**. Simulator uses custom 6-axis Inverse Kinematics solver for calculating joint positions. To simulate machining operations, Marching Cubes Algorithm is used. Calculations are performed on GPU. Model is devided to chunks to improve optymization.

@@ -14,8 +14,6 @@ This project is a **custom-built camera slider** designed to monitor plants in a
   - **Servos**: SCARA arm powered my servos
 - **Camera**: Raspberry Pi Camera mounted on the end of the SCARA arm for plant monitoring
 
-## 📸 Images
-Will be added soon
 
 ## 🔗 Resources & References
 - [MicroPython Documentation](https://micropython.org/)
