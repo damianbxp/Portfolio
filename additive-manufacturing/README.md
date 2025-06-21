@@ -31,7 +31,7 @@ Mecanum wheel prototype.
 Various resins tests.
 ![](img/img5.jpg)
 
-Not only engeeneering parts, but also just for fun!
+Not only engineering parts, but also just for fun!
 ![](img/img6.jpg)
 ![](img/1.gif)
 ![](img/img9.jpg)
