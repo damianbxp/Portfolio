@@ -31,7 +31,7 @@ Mecanum wheep prototpe.
 Various resins tests.
 ![](img/img5.jpg)
 
-Not only engeeneering, but also fun!
+Not only engeeneering parts, but also just for fun!
 ![](img/img6.jpg)
 ![](img/1.gif)
 ![](img/img9.jpg)
