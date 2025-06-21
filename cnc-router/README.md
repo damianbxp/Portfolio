@@ -10,7 +10,8 @@ A low-cost **3-axis CNC router** designed for machining plastic sheets. Built us
 - **Motion System**: NEMA 23 stepper motors coupled with TR18x3 screws. V-slot system used for linear motion.
 
 ## 📸 Images
-![](img/gif1.gif)
+<img src="img/gif1.gif" width="800"/>
+
 
 ![](img/img1.jpg)
 
