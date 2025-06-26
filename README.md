@@ -1,18 +1,44 @@
 # Portfolio
-
-This repository showcases my past projects.
-
+# Damian Bartus - Mechatronics Engineer
 ## 📖 About Me
 
-I'm a passionate **developer, engineer, and maker** who loves working on **automation, robotics**. My projects range from **custom-built 3D printers** and **CNC machines** to **robotic simulations and game development**. I enjoy **solving technical challenges**, **designing systems**, and **experimenting with new technologies**.
+Hi, I'm a Mechatronics Engineer with a passion for turning ideas into functional, tested solutions. I thrive in the full development cycle — from concept and design to prototyping and final validation — combining mechanical design, electronics, and software into cohesive systems.
 
-## 🔧 Skills & Interests
-- **Mechanical Design**: Solidworks, Inventor
-- **3D printing**: FDM, SLA
-- **Robotics & Automation**: CNC systems, robotic simulations
-- **Simulations**: Gazebo, Isaac Sim
-- **Software Development**: Python, C++, ROS, Unity, Unreal Engine, Git
-- **Video Games**: Mostly RTS and FPS shooters.
+My interests span across rapid prototyping, additive manufacturing, robotics, and automation. I’m particularly drawn to the innovation happening at the intersection of these fields. Outside of engineering, I enjoy real-time strategy and first-person shooter games.
+
+## 🔧 Technical Expertise
+
+I’ve worked with both **FDM** and **SLA 3D printing technologies**, including building and tuning my own FDM 3D printer. I’m also the proud builder of a self-made CNC router, allowing me to explore subtractive and additive processes side by side.
+
+Here are some of the tools and platforms I use regularly:
+
+### Mechanical & CAD
+- SolidWorks  
+- Autodesk Inventor  
+- AutoCAD  
+- PLM & PDM systems
+- CNC programming
+
+### Software & Programming
+- Python  
+- C++  
+- Git  
+- Docker  
+- Linux  
+
+### Robotics & Simulation
+- ROS  
+- Gazebo  
+- Isaac Sim  
+
+### Game Engines & Visualization
+- Unity  
+- Unreal Engine  
+
+## Academic Projects
+
+- **Bachelor's Thesis:** *Simulation of Machining Using Industrial Robots* — focused on digital twins and robotic machining simulations.  
+- **Master’s Thesis (in progress):** *Automation in Additive Manufacturing* — digital twin of 3D printing workflow. Automation of 3D printing process using ROS and Isaac Sim for simulation of MIR platform and UR robot.
 
 ---
 
