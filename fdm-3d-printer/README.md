@@ -20,8 +20,6 @@ This is a custom-built **FDM 3D printer** inspired by the RatRig design. It util
 
 ![](img/img2.jpg)
 
-![](img/img3.jpg)
-
 ## 🔗 Resources & References
 - [Klipper Documentation](https://www.klipper3d.org/)
 - [Mainsail Documentation](https://docs.mainsail.xyz/)
