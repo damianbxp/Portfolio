@@ -5,7 +5,7 @@ This project is my **Master thesis**. It will utilize **Isaac Sim** and **ROS** 
 
 This project is in very early stages, and I will update this README as I progress.
 
-![](img/img1.jpg)
+![](img/img1.png)
 
 ## 📬 Contact
 📧 Email: damianb.xp@gmail.com  
